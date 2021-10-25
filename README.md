@@ -2,7 +2,7 @@
 
  O projeto consiste em fazer algumas perguntas para o usuário onde dependendo da quantidade de sim ou não que o usuário responder chegara a um determinado resultado.
 
-<img alingn="center" alt="" height="" width="" src="./public/img/Imagem-Demonstracao.png"/>
+<img src="./public/img/Imagem-Demonstracao.png" alt="">
 
 <h3 align="center"> 🚀 Tecnologias utilizadas </h3>
 
